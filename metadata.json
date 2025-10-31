@@ -1,0 +1,5 @@
+{
+  "name": "Course Member Biodata Management",
+  "description": "A web application to manage and generate PDF biodata for course members, featuring a professional design with a white and dark purple glow gradient.",
+  "requestFramePermissions": []
+}
